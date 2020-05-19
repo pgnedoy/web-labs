@@ -1,0 +1,48 @@
+.body-wrapper {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+.container {
+    border: 1px solid black;
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.header-wrapper {
+    height: 70px;
+    display: flex;
+    border-bottom: 1px solid black;
+}
+
+.header-left {
+    height: 100%;
+    width: 50%;
+    border-right: 1px solid black;
+}
+
+.header-right {
+    height: 100%;
+    width: 50%;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+}
+
+.content-wrapper {
+    flex: 1;
+    flex-direction: row;
+    display: flex;
+}
+
+.button {
+    height: 100px;
+    text-align: center;
+    border-top: 1px solid black;
+}
