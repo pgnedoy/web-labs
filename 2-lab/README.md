@@ -10,8 +10,8 @@
 здійснювати у фоновому потоці за допомогою WebWorker.
 
 
-![](screens/1.jpg)
+![](screens/1.png)
 
-![](screens/2.jpg)
+![](screens/2.png)
 
-![](screens/3.jpg)
+![](screens/3.png)
